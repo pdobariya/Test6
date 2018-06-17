@@ -7,3 +7,6 @@ git remote add origin https://github.com/pdobariya/Test6.git
 git push -u origin master
 
 git clone https://github.com/pdobariya/Test6.git
+
+git config --local user.email "punam.bhadani54@gmail.com"
+git config --local user.name "pdobariya"
